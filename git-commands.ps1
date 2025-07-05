@@ -10,3 +10,8 @@ git status
 
 git push 
 
+git branch
+
+git branch new-branch
+
+git checkout new-branch
